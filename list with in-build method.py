@@ -44,6 +44,6 @@ lst3=["akku","nidhi","ranju"]
 lst4=lst2+lst3
 print(lst4)
 
-fruits = ["mac","eddy","ela","roy","eddy"]
-x = fruits.count("eddy")
+name = ["mac","eddy","ela","roy","eddy"]
+x = name.count("eddy")
 print(x)
