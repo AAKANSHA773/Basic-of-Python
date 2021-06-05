@@ -1,2 +1,2 @@
 # Basic-of-python
-basic lavel of python
+basic level of python
